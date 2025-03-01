@@ -16,14 +16,14 @@ Author: Alimov Pavel Gennadievich
       "inp_size": 2,
       "weights": [
         [
-          -0.24320530891418457
+          0.28508996963500977
         ],
         [
-          -0.04604744911193848
+          0.6904594898223877
         ]
       ],
       "biases": [
-        -0.17140960693359375
+        -0.5994975566864014
       ],
       "layer_type": "TensorflowDense",
       "dtype": "float32",
@@ -36,11 +36,11 @@ Author: Alimov Pavel Gennadievich
     "inp_size": 1,
     "weights": [
       [
-        0.4793078899383545
+        0.938391923904419
       ]
     ],
     "biases": [
-      -0.8439242839813232
+      0.4529259204864502
     ],
     "layer_type": "TensorflowDense",
     "dtype": "float32",
