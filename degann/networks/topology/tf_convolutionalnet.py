@@ -21,7 +21,7 @@ class TensorflowConvolutionNet(tf.keras.Model):
         padding_type="same",
         convolution_block_types=[],
         convolution_block_sizes=[],
-        dense_block_sizes: list = None,
+        dense_block_sizes: list = [],
         chunk_size: int = 10,
         convolutional_activation_func: str = "relu",
         dense_activation_func: str = "relu",
