@@ -85,6 +85,7 @@ class IModel(object):
                     output_size=output_size,
                     activation_func=activation_func,
                     is_debug=is_debug,
+                    dense_block_sizes=block_size,
                     **kwargs,
                 )
                 self._input_size = input_size
